@@ -1,6 +1,6 @@
 # Distilling Grounding DINO for an Edge-Cloud Collaborative Advanced Driver Assistance System
 
-[**Paper**](https://github.com/SunIsland-L/MMKD) | [**Project Page**](https://streamax6.github.io/MMKD)
+[**Paper**](https://github.com/HuAndrew/mmkd) | [**Project Page**](https://huandrew.github.io/mmkd.io/) 
 
 ------
 
