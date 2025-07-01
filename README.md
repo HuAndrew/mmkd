@@ -2,6 +2,8 @@
 
 [**Paper**](https://github.com/HuAndrew/mmkd) | [**Project Page**](https://huandrew.github.io/mmkd.io/) 
 
+- 🎉 [2025-06-30] Our [Distilling Grounding DINO for an Edge-Cloud Collaborative Advanced Driver Assistance System](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76) has been accepted by IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**)! 
+
 ------
 
 ## 🧠 Introduction
